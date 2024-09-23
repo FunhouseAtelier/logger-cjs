@@ -19,7 +19,7 @@ npm i @funhouse-atelier/logger-cjs
 1. Require the `logger-cjs` package in a JavaScript file.
 
 ```js
-const logger = require("logger-cjs");
+const logger = require("@funhouse-atelier/logger-cjs");
 ```
 
 2. Instantiate the logger.
