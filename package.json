@@ -1,0 +1,32 @@
+{
+  "name": "@funhouse-atelier/logger-cjs",
+  "version": "1.0.0",
+  "description": "A customized version of the `loglevel` NPM package, adapted for CommonJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FunhouseAtelier/logger-cjs.git"
+  },
+  "keywords": [
+    "log",
+    "logger",
+    "loglevel"
+  ],
+  "author": "Jason T Szabo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FunhouseAtelier/logger-cjs/issues"
+  },
+  "homepage": "https://github.com/FunhouseAtelier/logger-cjs#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "loglevel": "^1.9.2",
+    "loglevel-plugin-prefix": "^0.8.4"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
