@@ -1,5 +1,9 @@
 # @funhouse-atelier/logger-cjs
 
+## Description
+
+A customized version of the `loglevel` NPM package, adapted for CommonJS.
+
 ## Requirements
 
 - Node.js >=16.0.0
